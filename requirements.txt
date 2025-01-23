@@ -1,0 +1,7 @@
+pandas
+numpy
+tqdm
+ensure
+PyYAML
+python-box>=6.0.2
+pathlib
