@@ -5,3 +5,5 @@ ensure
 PyYAML
 python-box>=6.0.2
 pathlib
+notebook
+opencv-python
