@@ -1,9 +1,13 @@
+tensorflow==2.12.0
 pandas
 numpy
 tqdm
 ensure
 PyYAML
-python-box>=6.0.2
+matplotlib
+python-box
 pathlib
-notebook
+# notebook
 opencv-python
+ipykernel
+

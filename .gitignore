@@ -136,6 +136,7 @@ ENV/
 env.bak/
 venv.bak/
 venv_OpenCV_Awaait/
+venv_Awaait_v2/
 
 # Spyder project settings
 .spyderproject
