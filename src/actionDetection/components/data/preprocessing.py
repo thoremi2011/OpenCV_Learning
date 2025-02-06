@@ -26,7 +26,7 @@ class FeatureExtractor:
         """
         # Redimensionar
         frame = tf.image.resize(frame, self.frame_size)
-        # Normalizar usando estadísticas de ImageNet
+        # Normalizar usando estadísticas de efficientnet
         frame = tf.keras.applications.efficientnet.preprocess_input(frame)
         return frame
 

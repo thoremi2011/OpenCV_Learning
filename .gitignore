@@ -172,8 +172,14 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-#Artofacts
-artifacts/
+mlruns/
 
-#Logs
-logs/
+#Artifacts
+artifacts/
+artifacts/data/*
+artifacts/models/*
+artifacts/logs/*
+
+artifacts/mlruns/*
+artifacts/plots/*
+logs/*

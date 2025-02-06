@@ -10,4 +10,6 @@ pathlib
 # notebook
 opencv-python
 ipykernel
+mlflow==2.8.1
+seaborn
 
